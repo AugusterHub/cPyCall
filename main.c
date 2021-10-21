@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "D:\\py38\\include\\python.h"
-#pragma comment(lib, "D:\\py38\\libs\\python38.lib")
+#include "D:\\py38\\include\\python.h" //py解释器安装路径python.h路径
+#pragma comment(lib, "D:\\py38\\libs\\python38.lib") //py解释器安装路径python3x.lib路径
 //若在编译器设置了include和lib路径以上两行可以转化为
 //#include<Python.h>
 
