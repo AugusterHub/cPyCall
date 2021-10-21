@@ -1,0 +1,2 @@
+E:\cPyCall\x64\Debug\cPyCall.exe
+E:\cPyCall\x64\Debug\cPyCall.pdb
